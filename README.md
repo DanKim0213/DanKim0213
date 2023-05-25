@@ -2,12 +2,12 @@
 
 Content
 
-1. [TAEWON-KIM.json](#1-taewon-kimjson-)
-1. [Tech skills](#2-tech-skills-)
-1. [Projects](#3-projects-)
-1. [Cowork](#4-cowork-)
-1. [Reviews](#5-reviews-)
-1. [Contact me](#6-contact-me-)
+1. [TAEWON-KIM.json](#1-taewon-kimjson-😄)
+1. [Tech skills](#2-tech-skills-🌱)
+1. [Projects](#3-projects-🔭)
+1. [Cowork](#4-cowork-👯)
+1. [Reviews](#5-reviews-💬)
+1. [Contact me](#6-contact-me-📫)
 
 ## 1. TAEWON-KIM.json 😄
 
@@ -17,15 +17,15 @@ Content
   "name": "Taewon Kim",
   "alias": "Dan Kim",
   "birth": "1995-02-13",
-  "job": "frontend",
+  "job": ["Frontend Developer", "Tech Blogger"],
   "who-am-i": [
-    "Hi, there 👋 ", 
-    "I am a frontend developer", 
+    "Hi, there 👋 ",
+    "I am a frontend developer",
+    "who is willing to accept your feedback",
     "who is headed to the stars, ready to go far",
     "who never takes advice from somebody that ain't try"
-  ],
+  ]
 }
-
 ```
 
 ## 2. Tech skills 🌱
@@ -69,7 +69,7 @@ Content
 
 ## 5. Reviews 💬
 
-## 6. Contact me 📫  
+## 6. Contact me 📫
 
 <!-- ### Hi there 👋 -->
 
