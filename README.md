@@ -25,7 +25,7 @@ Content
     "Hi, there 👋 ",
     "I am a frontend developer",
     "who belinves in one line of code rather than one thousand words",
-    "who likes to talk about why not",
+    "who likes to talk about **why not** and **so what**"
   ]
 }
 ```
