@@ -34,16 +34,16 @@ Content
 
 ### 나의 기술 스킬
 
-- React: ⭐️⭐⭐⭐,
-- JavaScript: ⭐️⭐⭐⭐,
-- TypeScript: ️⭐⭐⭐,
-- HTML: ⭐️⭐⭐⭐,
-- CSS: ️⭐⭐⭐,
-- Git: ⭐️⭐⭐⭐,
-- Jira: ⭐⭐,
-- Testing: ⭐⭐,
-- Java: ⭐⭐⭐,
-- Python: ⭐⭐,
+- React: ⭐️⭐⭐⭐
+- JavaScript: ⭐️⭐⭐⭐
+- TypeScript: ️⭐⭐⭐
+- HTML: ⭐️⭐⭐⭐
+- CSS: ️⭐⭐⭐
+- Git: ⭐️⭐⭐⭐
+- Jira: ⭐⭐
+- Testing: ⭐⭐
+- Java: ⭐⭐⭐
+- Python: ⭐⭐
 
 ### 기준
 
