@@ -1,5 +1,8 @@
 # ✨ Portfolio ✨
 
+<div style="display:flex;">
+<img src="./me.jpg" height="200" />
+<div style="margin-left: 30px">
 Content
 
 1. [TAEWON-KIM.json](#1-taewon-kimjson-😄)
@@ -8,11 +11,10 @@ Content
 1. [How to Collaborate](#4-how-to-collaborate-👯)
 1. [Reviews](#5-reviews-💬)
 1. [Contact me](#6-contact-me-📫)
+</div>
+</div>
 
 ## 1. TAEWON-KIM.json 😄
-
-<!-- ![me](./me.jpg) -->
-<!-- <img src="./me.jpg" width="300" height="350" /> -->
 
 ```json
 {
@@ -41,7 +43,6 @@ Content
 - CSS: ️⭐⭐⭐
 - Git: ⭐️⭐⭐⭐
 - Jira: ⭐⭐
-- Testing: ⭐⭐
 - Java: ⭐⭐⭐
 - Python: ⭐⭐
 
@@ -55,7 +56,7 @@ Content
 
 ## 3. Projects 🔭
 
-### TooNBTI
+### TooNBTI 🥉
 
 [웹툰 취향 분석 서비스](https://github.com/DanKim0213/TooNBTI)
 
@@ -67,7 +68,7 @@ Content
 
 ### 66 days
 
-개발자로서 가져야할 습관 세우기 서비스
+[개발자로서 가져야할 습관 세우기 서비스](https://github.com/DanKim0213/66days/tree/main)
 
 - 팀장으로서 프로젝트 관리
 - Intersection Observer를 활용하여 무한 스크롤 기능을 그룹 검색 페이지에 적용
@@ -88,37 +89,14 @@ Content
 
 ## 4. How to Collaborate 👯
 
-### 그라운드 룰
+저는 협업할때 세 가지 원칙을 지킵니다
 
-- 모든 아이디어는 솔직하게 말하기
-- 질문은 시도한 문제 접근 방법과 함께 준비해서 하기
-- 회의는 상호존중하며 경청하기
-
-### 문제 접근 방식
-
-```mermaid
-sequenceDiagram
-    participant Owner
-    participant User
-    participant Server
-
-    User -->> Owner: ask to create a challenge
-    note left of User: write a post on Board
-    Owner ->> Server: create a challenge
-    Server ->> Server: created a challenge
-    Server -->> Owner: return this challenge
-    Owner ->> User: reply to User
-    note left of User: comment on the post
-    User ->> Server: ask to join the challenge
-    break when User is challenging the same category
-      Server -->> User: decline
-    end
-    Server -->> Owner: apply to the challenge
-    Owner ->> User: accept
-    User -->> Owner: join the challenge
-
-
-```
+- 일을 3개의 항목으로 나누어 처리
+  - 리더에게 시간 내 할 수 있는 것, 할 수 없는 것, 그리고 못하는 것을 솔직히 말하고, 우선순위를 바탕으로 스케줄링합니다
+- 사소한 의견일지라도 경청하기
+  - 타인의 의견을 존중할 줄 알아야 나의 의견 또한 존중 받을 수 있음을 알고 있습니다
+- 질문은 목적과 시도한 문제 접근 방법을 함께 준비해서 정중히 물어보기
+  - 질문은 명료하되 목적을 밝혀 답변자로 하여금 구체적인 답변과 그의 시간을 많이 뺏지 않습니다
 
 ## 5. Reviews 💬
 
