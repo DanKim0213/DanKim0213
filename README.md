@@ -37,8 +37,6 @@ Content
 - HTML: ⭐️⭐⭐⭐
 - CSS: ️⭐⭐⭐
 - Git: ⭐️⭐⭐⭐
-- Jira: ⭐⭐
-- Java: ⭐⭐⭐
 - Python: ⭐⭐
 
 ### 기준
