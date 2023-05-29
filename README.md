@@ -1,8 +1,5 @@
 # ✨ Portfolio ✨
 
-<div style="display:flex;">
-<img src="./me.jpg" height="200" />
-<div style="margin-left: 30px">
 Content
 
 1. [TAEWON-KIM.json](#1-taewon-kimjson-😄)
@@ -11,8 +8,6 @@ Content
 1. [How to Collaborate](#4-how-to-collaborate-👯)
 1. [Reviews](#5-reviews-💬)
 1. [Contact me](#6-contact-me-📫)
-</div>
-</div>
 
 ## 1. TAEWON-KIM.json 😄
 
