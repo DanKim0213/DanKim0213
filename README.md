@@ -17,7 +17,7 @@ Content
   "name": "Taewon Kim",
   "alias": "Dan Kim",
   "birth": "1995-02-13",
-  "job": ["Frontend Developer", "Tech Blogger"],
+  "job": "Frontend Developer",
   "who-am-i": [
     "Hi, there 👋 ",
     "I am a frontend developer",
