@@ -31,13 +31,13 @@ Content
 
 ### 나의 기술 스킬
 
-- React: ⭐️⭐⭐⭐
-- JavaScript: ⭐️⭐⭐⭐
-- TypeScript: ️⭐⭐⭐
-- HTML: ⭐️⭐⭐⭐
-- CSS: ️⭐⭐⭐
-- Git: ⭐️⭐⭐⭐
-- Python: ⭐⭐
+- React: ⭐️⭐️⭐️⭐️
+- JavaScript: ⭐️⭐️⭐️⭐️
+- TypeScript: ️⭐️⭐️⭐️
+- HTML: ⭐️⭐️⭐️⭐️
+- CSS: ️⭐️⭐️⭐️
+- Git: ⭐️⭐️⭐️⭐️
+- Python: ⭐️⭐️
 
 ### 기준
 
