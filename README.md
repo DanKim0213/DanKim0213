@@ -17,7 +17,7 @@
   "skill":{
    "react": "⭐️⭐️⭐️⭐️",
    "javascript": "⭐️⭐️⭐️⭐️",
-   "typescript": ️"⭐️⭐️⭐️",
+   "typescript": ️"⭐️⭐️⭐️", 
    "html": "⭐️⭐️⭐️⭐️",
    "css": ️"⭐️⭐️⭐️",
    "git": "⭐️⭐️⭐️⭐️",
