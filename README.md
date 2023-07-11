@@ -1,13 +1,6 @@
-# ✨ Portfolio ✨
+# ✨ README ✨
 
-Content
-
-1. [TAEWON-KIM.json](#1-taewon-kimjson-😄)
-1. [Tech skills](#2-tech-skills-🌱)
-1. [Projects](#3-projects-🔭)
-1. [Reviews](#4-reviews-💬)
-
-## 1. TAEWON-KIM.json 😄
+## 1. 김태원.json 😄
 
 ```json
 {
@@ -20,31 +13,27 @@ Content
     "Hi, there 👋 ",
     "I am a frontend developer",
     "who likes to talk about **why not** and **so what**"
-  ]
+  ],
+  "skill":{
+   "react": "⭐️⭐️⭐️⭐️",
+   "javascript": "⭐️⭐️⭐️⭐️",
+   "typescript": ️"⭐️⭐️⭐️",
+   "html": "⭐️⭐️⭐️⭐️",
+   "css": ️"⭐️⭐️⭐️",
+   "git": "⭐️⭐️⭐️⭐️",
+   "python": "⭐️⭐️",
+  }
 }
 ```
 
-## 2. Tech skills 🌱
-
-### 나의 기술 스킬
-
-- React: ⭐️⭐️⭐️⭐️
-- JavaScript: ⭐️⭐️⭐️⭐️
-- TypeScript: ️⭐️⭐️⭐️
-- HTML: ⭐️⭐️⭐️⭐️
-- CSS: ️⭐️⭐️⭐️
-- Git: ⭐️⭐️⭐️⭐️
-- Python: ⭐️⭐️
-
-### 기준
-
+Skill 기준
 - 별 5개: 최신 기술에 숙달하며 구글링이 필요없는 단계
 - 별 4개: 내가 쓰는 기술이 무엇인지 정확히 인지하는 단계
 - 별 3개: 어떤 기술을 써야할지 알지만 숙달되지 못한 단계
 - 별 2개: 이 스킬에는 어떤 기술이 있는지 존재만 아는 단계
 - 별 1개: 아는 척도 할 수 없는 아장아장 단계
 
-## 3. Projects 🔭
+## 2. Projects 🔭
 
 ### TooNBTI 🥉
 
@@ -77,7 +66,7 @@ Content
 - TypeScript를 프로젝트에 적극 도입하길 추천했고 팀원들과 스터디 주도
 - Git으로 프로젝트 관리 담당
 
-## 4. Reviews 💬
+## 3. Reviews 💬
 
 <details>
   <summary>SSAFY</summary>
