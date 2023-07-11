@@ -27,6 +27,7 @@
 ```
 
 Skill 기준
+
 - 별 5개: 최신 기술에 숙달하며 구글링이 필요없는 단계
 - 별 4개: 내가 쓰는 기술이 무엇인지 정확히 인지하는 단계
 - 별 3개: 어떤 기술을 써야할지 알지만 숙달되지 못한 단계
@@ -37,7 +38,7 @@ Skill 기준
 
 ### TooNBTI 🥉
 
-[웹툰 취향 분석 서비스](https://github.com/DanKim0213/TooNBTI)
+나의 역할
 
 - graphql을 백엔드와 프론트엔드에 도입 및 graphql-codegen을 활용하여 설정
 - Intersection Observer를 활용하여 무한 스크롤 기능을 웹툰 목록 페이지에 적용
@@ -45,26 +46,91 @@ Skill 기준
 - TypeScript를 프론트엔드에 적용하여 컴포넌트별 propstype 및 graphql API에서 빠른 디버깅과 협업에 안정성을 추구
 - Github flow를 도입하여 팀 프로젝트 코드관리를 도맡아 진행
 
+<details>
+  <summary>더보기</summary>
+
+  - 소개
+    - 취향에 맞는 웹툰 추천 서비스
+    - 유형 검사를 통해 웹툰 속의 나를 찾고, 웹툰 독자 유형 검사를 통해 주인공인 나를 발견하자!
+    - 백엔드 3명 + 프론트엔드 3명
+    - 2023/2/20 ~ 2023/4/7 (6주) 개발
+  - 시스템 아키텍처 ![architecture](https://github.com/DanKim0213/TooNBTI/blob/main/Docs/assets/tech-stack.jpg?raw=true)
+  - 시연 화면
+    - 웹툰 취향 분석 테스트 - 작품 선택 및 추가
+    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-5.gif" width="200"  />
+    - 웹툰 취향 분석 테스트 - 검색을 통한 선택
+    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-6.gif" width="200"  />
+    - 웹툰 취향 분석 테스트 - 무한 스크롤 기능
+    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-7.gif" width="200"  />
+    - 취향 분석 결과 페이지
+    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-8.gif" width="200"  />
+  - [프로젝트 보러가기](https://github.com/DanKim0213/TooNBTI)
+
+</details>
+
 ### 66 days
 
-[개발자로서 가져야할 습관 세우기 서비스](https://github.com/DanKim0213/66days/tree/main)
+나의 역할
 
-- 팀장으로서 프로젝트 관리
 - Intersection Observer를 활용하여 무한 스크롤 기능을 그룹 검색 페이지에 적용
-- Github flow를 도입하여 팀 프로젝트 코드관리를 도맡아 진행
-- 프로젝트에 대한 흐름도 & 팀 간 소통을 위한 Notion 문서화 담당
+- Github flow를 도입하여 팀 프로젝트 코드관리
+- 프로젝트에 대한 흐름도 & 팀 간 소통을 위한 Notion 문서화
 - 그룹 소개 페이지를 퍼블리싱
 - 카카오 소셜 로그인 담당
 - 프론트엔드 개발자들의 코드 리뷰를 진행
 
+<details>
+  <summary>더보기</summary>
+
+  - 소개
+    - 개발자로서 가져야할 습관 세우기 서비스
+    - 습관이 생성 되기 위해서 평균 66일이라는 시간이 소요된다. 훌륭한 개발자가 되기 위해 66 days 동안 바른 습관을 만들어 보자.
+    - 백엔드 3명 + 프론트엔드 3명
+    - 2023/4/10 ~ 2023/5/19 (6주) 개발
+  - 시스템 아키텍처 ![architecture](https://github.com/DanKim0213/66days/raw/main/assets/architecture.png)
+  - 시연 화면
+    - 메인 화면
+    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d1.PNG" width="200"  />
+    - 그룹 검색 화면
+    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d8.PNG" width="200"  />
+    - 그룹 소개 화면
+    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d7.PNG" width="200"  />
+    - 그룹 습관 화면
+    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d3.PNG" width="200"  />
+  - [프로젝트 보러가기](https://github.com/DanKim0213/66days/tree/main)
+</details>
+
 ### Auctopus
 
-[실시간 소통 중고거래 서비스](https://github.com/DanKim0213/Auctopus)
+나의 역할
 
 - Web Socket을 활용하여 채팅 구현
 - 카카오 계정을 활용하여 소셜 로그인 구현
 - TypeScript를 프로젝트에 적극 도입하길 추천했고 팀원들과 스터디 주도
 - Git으로 프로젝트 관리 담당
+
+<details>
+  <summary>더보기</summary>
+
+  - 소개
+    - 경제적이고 매력적인 중고거래 플랫폼!
+    - 화상 기술을 통해 원거리에서 중고 상품을 확인할 수 있습니다.
+    - 판매자는 수요에 맞는 가격을 제시받고, 구매자는 가격에 맞는 상품을 구할 수 있습니다.
+    - 백엔드 3명 + 프론트엔드 3명
+    - 2023/1/9 ~ 2023/2/17 (6주) 개발
+  - 시스템 아키텍처 ![architecture](https://github.com/DanKim0213/Auctopus/raw/main/assets/readme/system_architecture.png)
+  - 시연 화면
+    - 로그인 
+    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/user/로그인.png" width="200"  />
+    - 거래 목록 화면
+    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/main/메인%20홈%20%20-%20라이브%20예정.png" width="200"  />
+    - 상품 상세 화면
+    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/main/메인%20홈%20-%20경매방%20상세(판매자).png" width="200"  />
+    - 채팅
+    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/auction/경매%20라이브%20-%20구매자%20(%20방송중%20).png" width="200"  />
+
+  - [프로젝트 보러가기](https://github.com/DanKim0213/Auctopus)
+</details>
 
 ## Reviews 💬
 
@@ -99,7 +165,6 @@ Skill 기준
 > by [변유정](https://github.com/SPIDEY965), 2학기 공통 프로젝트
 
 </details>
-
 
 <!--
 **DanKim0213/DanKim0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
