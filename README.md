@@ -5,9 +5,7 @@ Content
 1. [TAEWON-KIM.json](#1-taewon-kimjson-😄)
 1. [Tech skills](#2-tech-skills-🌱)
 1. [Projects](#3-projects-🔭)
-1. [How to Collaborate](#4-how-to-collaborate-👯)
-1. [Reviews](#5-reviews-💬)
-1. [Contact me](#6-contact-me-📫)
+1. [Reviews](#4-reviews-💬)
 
 ## 1. TAEWON-KIM.json 😄
 
@@ -21,7 +19,6 @@ Content
   "who-am-i": [
     "Hi, there 👋 ",
     "I am a frontend developer",
-    "who belinves in one line of code rather than one thousand words",
     "who likes to talk about **why not** and **so what**"
   ]
 }
@@ -80,18 +77,7 @@ Content
 - TypeScript를 프로젝트에 적극 도입하길 추천했고 팀원들과 스터디 주도
 - Git으로 프로젝트 관리 담당
 
-## 4. How to Collaborate 👯
-
-저는 협업할때 세 가지 원칙을 지킵니다
-
-- 일을 3개의 항목으로 나누어 처리
-  - 리더에게 시간 내 할 수 있는 것, 할 수 없는 것, 그리고 못하는 것을 솔직히 말하고, 우선순위를 바탕으로 스케줄링합니다
-- 사소한 의견일지라도 경청하기
-  - 타인의 의견을 존중할 줄 알아야 나의 의견 또한 존중 받을 수 있음을 알고 있습니다
-- 질문은 목적과 시도한 문제 접근 방법을 함께 준비해서 정중히 물어보기
-  - 질문은 명료하되 목적을 밝혀 답변자로 하여금 구체적인 답변과 그의 시간을 많이 뺏지 않습니다
-
-## 5. Reviews 💬
+## 4. Reviews 💬
 
 <details>
   <summary>SSAFY</summary>
@@ -125,11 +111,6 @@ Content
 
 </details>
 
-## 6. Contact me 📫
-
-이메일 `dankim0213@gmail.com`로 편안히 연락주세요
-
-<!-- ### Hi there 👋 -->
 
 <!--
 **DanKim0213/DanKim0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
