@@ -56,14 +56,10 @@ Skill 기준
     - 2023/2/20 ~ 2023/4/7 (6주) 개발
   - 시스템 아키텍처 ![architecture](https://github.com/DanKim0213/TooNBTI/blob/main/Docs/assets/tech-stack.jpg?raw=true)
   - 시연 화면
-    - 웹툰 취향 분석 테스트 - 작품 선택 및 추가
-    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-5.gif" width="200"  />
-    - 웹툰 취향 분석 테스트 - 검색을 통한 선택
-    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-6.gif" width="200"  />
-    - 웹툰 취향 분석 테스트 - 무한 스크롤 기능
-    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-7.gif" width="200"  />
-    - 취향 분석 결과 페이지
-    <img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-8.gif" width="200"  />
+    - 웹툰 취향 분석 테스트 - 작품 선택 및 추가 <br /><img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-5.gif" width="200"  />
+    - 웹툰 취향 분석 테스트 - 검색을 통한 선택 <br /><img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-6.gif" width="200"  />
+    - 웹툰 취향 분석 테스트 - 무한 스크롤 기능 <br /><img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-7.gif" width="200"  />
+    - 취향 분석 결과 페이지 <br /><img src="https://github.com/DanKim0213/TooNBTI/raw/main/Docs/assets/ToonBTI%20gif/ToonBTI-8.gif" width="200"  />
   - [프로젝트 보러가기](https://github.com/DanKim0213/TooNBTI)
 
 </details>
@@ -89,14 +85,10 @@ Skill 기준
     - 2023/4/10 ~ 2023/5/19 (6주) 개발
   - 시스템 아키텍처 ![architecture](https://github.com/DanKim0213/66days/raw/main/assets/architecture.png)
   - 시연 화면
-    - 메인 화면
-    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d1.PNG" width="200"  />
-    - 그룹 검색 화면
-    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d8.PNG" width="200"  />
-    - 그룹 소개 화면
-    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d7.PNG" width="200"  />
-    - 그룹 습관 화면
-    <img src="https://github.com/DanKim0213/66days/raw/main/assets/d3.PNG" width="200"  />
+    - 메인 화면 <br /><img src="https://github.com/DanKim0213/66days/raw/main/assets/d1.PNG" width="200"  />
+    - 그룹 검색 화면 <br /><img src="https://github.com/DanKim0213/66days/raw/main/assets/d8.PNG" width="200"  />
+    - 그룹 소개 화면 <br /><img src="https://github.com/DanKim0213/66days/raw/main/assets/d7.PNG" width="200"  />
+    - 그룹 습관 화면 <br /><img src="https://github.com/DanKim0213/66days/raw/main/assets/d3.PNG" width="200"  />
   - [프로젝트 보러가기](https://github.com/DanKim0213/66days/tree/main)
 </details>
 
@@ -119,16 +111,11 @@ Skill 기준
     - 백엔드 3명 + 프론트엔드 3명
     - 2023/1/9 ~ 2023/2/17 (6주) 개발
   - 시스템 아키텍처 ![architecture](https://github.com/DanKim0213/Auctopus/raw/main/assets/readme/system_architecture.png)
-  - 시연 화면
-    - 로그인 
-    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/user/로그인.png" width="200"  />
-    - 거래 목록 화면
-    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/main/메인%20홈%20%20-%20라이브%20예정.png" width="200"  />
-    - 상품 상세 화면
-    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/main/메인%20홈%20-%20경매방%20상세(판매자).png" width="200"  />
-    - 채팅
-    <img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/auction/경매%20라이브%20-%20구매자%20(%20방송중%20).png" width="200"  />
-
+  - 와이어프레임
+    - 로그인 <br /><img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/user/로그인.png" width="200"  />
+    - 거래 목록 화면 <br /><img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/main/메인%20홈%20%20-%20라이브%20예정.png" width="200"  />
+    - 상품 상세 화면 <br /><img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/main/메인%20홈%20-%20경매방%20상세(판매자).png" width="200"  />
+    - 채팅 <br /><img src="https://github.com/DanKim0213/Auctopus/raw/main/assets/wireframes/auction/경매%20라이브%20-%20구매자%20(%20방송중%20).png" width="200"  />
   - [프로젝트 보러가기](https://github.com/DanKim0213/Auctopus)
 </details>
 
