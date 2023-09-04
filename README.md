@@ -47,7 +47,7 @@ Skill 기준
 - Github flow를 도입하여 팀 프로젝트 코드관리를 도맡아 진행
 
 <details>
-  <summary>더보기</summary>
+  <summary style="color: #0969da;">더보기</summary>
 
   - 소개
     - 취향에 맞는 웹툰 추천 서비스
@@ -76,7 +76,7 @@ Skill 기준
 - 프론트엔드 개발자들의 코드 리뷰를 진행
 
 <details>
-  <summary>더보기</summary>
+  <summary style="color: #0969da;">더보기</summary>
 
   - 소개
     - 개발자로서 가져야할 습관 세우기 서비스
@@ -102,7 +102,7 @@ Skill 기준
 - Git으로 프로젝트 관리 담당
 
 <details>
-  <summary>더보기</summary>
+  <summary style="color: #0969da;">더보기</summary>
 
   - 소개
     - 경제적이고 매력적인 중고거래 플랫폼!
@@ -122,7 +122,7 @@ Skill 기준
 ## Reviews 💬
 
 <details>
-  <summary>SSAFY</summary>
+  <summary style="color: #0969da;">SSAFY</summary>
 
 > "태원님은 웹 프로젝트 경험이 없던 저와 페어를 하면서 모르는 부분을 물어보았을 때 친절히 알려주었습니다. 그리고 결정사항에 대해 깊게 고민하는 경향이 있어 힘들어하는 모습을 보이지만, 그 덕분에 프로젝트를 하면서 많은 대화를 했고, 그 결과 문제가 생기더라도 금방 해결할 수 있었던것 같습니다."
 > by [여민지](https://github.com/yeomj051), 1학기 싸피 페어
