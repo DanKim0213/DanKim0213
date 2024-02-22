@@ -119,6 +119,7 @@ Skill 기준
   - [프로젝트 보러가기](https://github.com/DanKim0213/Auctopus)
 </details>
 
+<!--
 ## Reviews 💬
 
 <details>
@@ -152,6 +153,7 @@ Skill 기준
 > by [변유정](https://github.com/SPIDEY965), 2학기 공통 프로젝트
 
 </details>
+-->
 
 <!--
 **DanKim0213/DanKim0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
