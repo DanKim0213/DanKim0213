@@ -1,5 +1,7 @@
 # README
 
+> head -n 2 ./\*\*/\*.md
+
 ```text
 ==> ./algorithm/b10025.md <==
 
